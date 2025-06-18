@@ -1,0 +1,16 @@
+INDEX VERSION 1.134+C:\AulaNoite_Abril\.metadata\.plugins\org.eclipse.jdt.core
+1012373843.index
+2772934461.index
+967706393.index
+594045628.index
+673666364.index
+2644687792.index
+1625334195.index
+1045482921.index
+2848971904.index
+1818812942.index
+2340699823.index
+1865797976.index
+380158462.index
+4152340634.index
+4268920458.index
